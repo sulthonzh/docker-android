@@ -7,3 +7,20 @@
 coverage.xml
 xunit.xml
 coverage/*
+
+# Build output
+dist/
+build/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
